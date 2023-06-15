@@ -1,0 +1,301 @@
+2023-06-10 20:03:36 INFO     available device: cuda£¬count_gpu: 1
+2023-06-10 20:03:36 INFO     loading labels info from data
+2023-06-10 20:03:36 INFO     loading label2id and id2label dictionary successful!
+2023-06-10 20:03:42 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-10 20:03:42 INFO     ====================== Running test ======================
+2023-06-10 20:05:55 INFO                precision    recall  f1-score   support
+2023-06-10 20:05:55 INFO             O     0.9250    0.0296    0.0573    150935
+2023-06-10 20:05:55 INFO         I-ORG     0.0773    0.1401    0.0996      5640
+2023-06-10 20:05:55 INFO         I-LOC     0.0276    0.5149    0.0523      4370
+2023-06-10 20:05:55 INFO         I-PER     0.0051    0.0479    0.0092      3845
+2023-06-10 20:05:55 INFO         B-LOC     0.0232    0.2755    0.0428      2871
+2023-06-10 20:05:55 INFO         B-ORG     0.0083    0.0023    0.0036      1327
+2023-06-10 20:05:55 INFO         B-PER     0.0073    0.0086    0.0079      1972
+2023-06-10 20:05:55 INFO     avg/total     0.8205    0.0497    0.0563    170960
+2023-06-10 20:05:55 INFO     Confusion Matrix:
+2023-06-10 20:05:55 INFO                   O   I-ORG   I-LOC   I-PER   B-LOC   B-ORG   B-PER 
+2023-06-10 20:05:55 INFO           O    4464    8132   73268   33927   27974     314    1800 
+2023-06-10 20:05:55 INFO       I-ORG     140     790    2170     841    1483      16     190 
+2023-06-10 20:05:55 INFO       I-LOC      89     368    2250     569     911       6     145 
+2023-06-10 20:05:55 INFO       I-PER      35     201    1443     184    1831      10     125 
+2023-06-10 20:05:55 INFO       B-LOC      42     337    1184     459     791      13      34 
+2023-06-10 20:05:55 INFO       B-ORG      35     274     421     145     406       3      32 
+2023-06-10 20:05:55 INFO       B-PER      21     114     933     178     697       1      17 
+2023-06-10 20:28:50 INFO     available device: cuda£¬count_gpu: 1
+2023-06-10 20:28:50 INFO     loading labels info from data
+2023-06-10 20:28:50 INFO     loading label2id and id2label dictionary successful!
+2023-06-10 20:28:54 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-10 20:28:54 INFO     ====================== Running test ======================
+2023-06-11 10:52:17 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 10:52:17 INFO     loading labels info from data
+2023-06-11 10:52:17 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 10:52:22 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 10:52:22 INFO     ====================== Running test ======================
+2023-06-11 10:54:06 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 10:54:06 INFO     loading labels info from data
+2023-06-11 10:54:06 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 10:54:09 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 10:54:09 INFO     ====================== Running test ======================
+2023-06-11 10:55:56 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 10:55:56 INFO     loading labels info from data
+2023-06-11 10:55:56 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 10:56:00 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 10:56:00 INFO     ====================== Running test ======================
+2023-06-11 11:04:20 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 11:04:20 INFO     loading labels info from data
+2023-06-11 11:04:20 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 11:04:23 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 11:04:23 INFO     ====================== Running test ======================
+2023-06-11 11:06:29 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 11:06:29 INFO     loading labels info from data
+2023-06-11 11:06:29 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 11:06:32 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 11:06:32 INFO     ====================== Running test ======================
+2023-06-11 11:08:45 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 11:08:45 INFO     loading labels info from data
+2023-06-11 11:08:45 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 11:08:48 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 11:08:48 INFO     ====================== Running test ======================
+2023-06-11 11:26:53 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 11:26:53 INFO     loading labels info from data
+2023-06-11 11:26:53 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 11:26:56 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 11:26:56 INFO     ====================== Running test ======================
+2023-06-11 11:29:23 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 11:29:23 INFO     loading labels info from data
+2023-06-11 11:29:23 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 11:29:26 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 11:29:26 INFO     ====================== Running test ======================
+2023-06-11 11:31:03 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 11:31:03 INFO     loading labels info from data
+2023-06-11 11:31:03 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 11:31:06 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 11:31:06 INFO     ====================== Running test ======================
+2023-06-11 11:32:15 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 11:32:15 INFO     loading labels info from data
+2023-06-11 11:32:15 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 11:32:18 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 11:32:18 INFO     ====================== Running test ======================
+2023-06-11 11:44:38 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 11:44:38 INFO     loading labels info from data
+2023-06-11 11:44:38 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 11:44:41 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 11:44:41 INFO     ====================== Running test ======================
+2023-06-11 11:46:56 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 11:46:56 INFO     loading labels info from data
+2023-06-11 11:46:56 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 11:46:59 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 11:46:59 INFO     ====================== Running test ======================
+2023-06-11 11:50:22 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 11:50:22 INFO     loading labels info from data
+2023-06-11 11:50:22 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 11:50:25 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 11:50:25 INFO     ====================== Running test ======================
+2023-06-11 12:34:39 INFO                precision    recall  f1-score   support
+2023-06-11 12:34:39 INFO         I-ORG     0.9049    0.4098    0.5641      5640
+2023-06-11 12:34:39 INFO         B-PER     0.9516    0.3986    0.5618      1972
+2023-06-11 12:34:39 INFO         I-LOC     0.9379    0.4593    0.6166      4370
+2023-06-11 12:34:39 INFO         I-PER     0.9634    0.3633    0.5277      3845
+2023-06-11 12:34:39 INFO         B-LOC     0.9347    0.4789    0.6333      2871
+2023-06-11 12:34:39 INFO             O     0.9297    0.9971    0.9622    150935
+2023-06-11 12:34:39 INFO         B-ORG     0.8788    0.4318    0.5791      1327
+2023-06-11 12:34:39 INFO     avg/total     0.9298    0.9297    0.9174    170960
+2023-06-11 12:34:39 INFO     Confusion Matrix:
+2023-06-11 12:34:39 INFO               I-ORG   B-PER   I-LOC   I-PER   B-LOC       O   B-ORG 
+2023-06-11 12:34:39 INFO       I-ORG    2311       0       5       0       1    3316       7 
+2023-06-11 12:34:39 INFO       B-PER       0     786       0      11       6    1169       0 
+2023-06-11 12:34:39 INFO       I-LOC      30       0    2007      11      21    2299       2 
+2023-06-11 12:34:39 INFO       I-PER       0      17       3    1397       1    2427       0 
+2023-06-11 12:34:39 INFO       B-LOC       3       6      29       0    1375    1447      11 
+2023-06-11 12:34:39 INFO           O     179      17      96      31      58  150495      59 
+2023-06-11 12:34:39 INFO       B-ORG      31       0       0       0       9     714     573 
+2023-06-11 12:37:34 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 12:37:34 INFO     loading labels info from data
+2023-06-11 12:37:34 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 12:37:37 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 12:37:37 INFO     ====================== Running test ======================
+2023-06-11 14:21:14 INFO                precision    recall  f1-score   support
+2023-06-11 14:21:14 INFO             O     0.9344    0.9984    0.9653   1892506
+2023-06-11 14:21:14 INFO         I-ORG     0.9619    0.4224    0.5871     82986
+2023-06-11 14:21:14 INFO         I-PER     0.9844    0.4848    0.6496     34018
+2023-06-11 14:21:14 INFO         B-PER     0.9838    0.5117    0.6733     17585
+2023-06-11 14:21:14 INFO         B-ORG     0.9376    0.4451    0.6036     20483
+2023-06-11 14:21:14 INFO         B-LOC     0.9510    0.4354    0.5973     36029
+2023-06-11 14:21:14 INFO         I-LOC     0.9555    0.4233    0.5867     48701
+2023-06-11 14:21:14 INFO     avg/total     0.9375    0.9358    0.9248   2132308
+2023-06-11 14:21:14 INFO     Confusion Matrix:
+2023-06-11 14:21:15 INFO                   O   I-ORG   I-PER   B-PER   B-ORG   B-LOC   I-LOC 
+2023-06-11 14:21:15 INFO           O 1889513    1155     195      71     474     345     753 
+2023-06-11 14:21:15 INFO       I-ORG   47819   35056       1       3      92       8       7 
+2023-06-11 14:21:15 INFO       I-PER   17452       0   16491      71       1       1       2 
+2023-06-11 14:21:15 INFO       B-PER    8504       0      65    8999       0      17       0 
+2023-06-11 14:21:15 INFO       B-ORG   10989     204       0       1    9116     173       0 
+2023-06-11 14:21:15 INFO       B-LOC   20116       0       0       0      28   15686     199 
+2023-06-11 14:21:15 INFO       I-LOC   27779      29       0       2      12     265   20614 
+2023-06-11 14:22:49 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 14:22:49 INFO     loading labels info from data
+2023-06-11 14:22:49 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 14:22:52 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 14:22:52 INFO     ====================== Running test ======================
+2023-06-11 14:36:32 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 14:36:32 INFO     loading labels info from data
+2023-06-11 14:36:32 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 14:36:35 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 14:36:35 INFO     ====================== Running test ======================
+2023-06-11 14:40:32 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 14:40:32 INFO     loading labels info from data
+2023-06-11 14:40:32 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 14:40:35 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 14:40:35 INFO     ====================== Running test ======================
+2023-06-11 14:42:13 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 14:42:13 INFO     loading labels info from data
+2023-06-11 14:42:13 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 14:42:16 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 14:42:16 INFO     ====================== Running test ======================
+2023-06-11 14:44:09 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 14:44:09 INFO     loading labels info from data
+2023-06-11 14:44:09 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 14:44:12 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 14:44:12 INFO     ====================== Running test ======================
+2023-06-11 14:46:44 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 14:46:44 INFO     loading labels info from data
+2023-06-11 14:46:44 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 14:46:47 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 14:46:47 INFO     ====================== Running test ======================
+2023-06-11 14:48:41 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 14:48:41 INFO     loading labels info from data
+2023-06-11 14:48:41 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 14:48:44 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 14:48:44 INFO     ====================== Running test ======================
+2023-06-11 14:50:23 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 14:50:23 INFO     loading labels info from data
+2023-06-11 14:50:23 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 14:50:26 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 14:50:26 INFO     ====================== Running test ======================
+2023-06-11 14:51:44 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 14:51:44 INFO     loading labels info from data
+2023-06-11 14:51:44 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 14:51:47 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 14:51:47 INFO     ====================== Running test ======================
+2023-06-11 15:09:19 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 15:09:19 INFO     loading labels info from data
+2023-06-11 15:09:19 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 15:09:22 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 15:09:22 INFO     ====================== Running test ======================
+2023-06-11 15:17:10 INFO                precision    recall  f1-score   support
+2023-06-11 15:17:10 INFO             O     0.9324    0.9971    0.9636    150935
+2023-06-11 15:17:10 INFO         I-LOC     0.9450    0.4794    0.6361      4370
+2023-06-11 15:17:10 INFO         I-ORG     0.9131    0.4454    0.5987      5640
+2023-06-11 15:17:10 INFO         B-PER     0.9483    0.4001    0.5628      1972
+2023-06-11 15:17:10 INFO         B-LOC     0.8865    0.4949    0.6352      2871
+2023-06-11 15:17:10 INFO         B-ORG     0.8750    0.4326    0.5789      1327
+2023-06-11 15:17:10 INFO         I-PER     0.9659    0.3758    0.5411      3845
+2023-06-11 15:17:10 INFO     avg/total     0.9318    0.9319    0.9206    170960
+2023-06-11 15:17:10 INFO     Confusion Matrix:
+2023-06-11 15:17:10 INFO                   O   I-LOC   I-ORG   B-PER   B-LOC   B-ORG   I-PER 
+2023-06-11 15:17:10 INFO           O  150490      90     179      15      70      59      32 
+2023-06-11 15:17:10 INFO       I-LOC    2211    2095      24       0      27       2      11 
+2023-06-11 15:17:10 INFO       I-ORG    3110       5    2512       0       1      12       0 
+2023-06-11 15:17:10 INFO       B-PER    1139       0       0     789      36       0       8 
+2023-06-11 15:17:10 INFO       B-LOC    1409      24       2       6    1421       9       0 
+2023-06-11 15:17:10 INFO       B-ORG     671       0      34       0      48     574       0 
+2023-06-11 15:17:10 INFO       I-PER    2375       3       0      22       0       0    1445 
+2023-06-11 15:18:44 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 15:18:44 INFO     loading labels info from data
+2023-06-11 15:18:44 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 15:18:47 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 15:18:47 INFO     ====================== Running test ======================
+2023-06-11 15:50:39 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 15:50:39 INFO     loading labels info from data
+2023-06-11 15:50:40 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 15:50:43 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 15:50:43 INFO     ====================== Running test ======================
+2023-06-11 15:57:45 INFO                precision    recall  f1-score   support
+2023-06-11 15:57:45 INFO         I-PER     0.9635    0.3709    0.5356      3845
+2023-06-11 15:57:45 INFO         I-LOC     0.9367    0.4773    0.6324      4370
+2023-06-11 15:57:45 INFO             O     0.9316    0.9970    0.9632    150935
+2023-06-11 15:57:45 INFO         B-PER     0.9651    0.4062    0.5717      1972
+2023-06-11 15:57:45 INFO         B-LOC     0.9622    0.4782    0.6389      2871
+2023-06-11 15:57:45 INFO         B-ORG     0.8846    0.4446    0.5918      1327
+2023-06-11 15:57:45 INFO         I-ORG     0.9000    0.4466    0.5970      5640
+2023-06-11 15:57:45 INFO     avg/total     0.9320    0.9317    0.9202    170960
+2023-06-11 15:57:45 INFO     Confusion Matrix:
+2023-06-11 15:57:45 INFO               I-PER   I-LOC       O   B-PER   B-LOC   B-ORG   I-ORG 
+2023-06-11 15:57:45 INFO       I-PER    1426       3    2408       8       0       0       0 
+2023-06-11 15:57:45 INFO       I-LOC      11    2086    2235       0       5       0      33 
+2023-06-11 15:57:45 INFO           O      30      97  150484      16      45      62     201 
+2023-06-11 15:57:45 INFO       B-PER      13       0    1155     801       2       0       1 
+2023-06-11 15:57:45 INFO       B-LOC       0      37    1439       5    1373      14       3 
+2023-06-11 15:57:45 INFO       B-ORG       0       0     693       0       2     590      42 
+2023-06-11 15:57:45 INFO       I-ORG       0       4    3116       0       0       1    2519 
+2023-06-11 16:06:49 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 16:06:49 INFO     loading labels info from data
+2023-06-11 16:06:49 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 16:06:52 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 16:06:52 INFO     ====================== Running test ======================
+2023-06-11 16:12:21 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 16:12:21 INFO     loading labels info from data
+2023-06-11 16:12:21 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 16:12:24 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 16:12:24 INFO     ====================== Running test ======================
+2023-06-11 16:45:41 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 16:45:41 INFO     loading labels info from data
+2023-06-11 16:45:41 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 16:45:44 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 16:45:44 INFO     ====================== Running test ======================
+2023-06-11 17:03:57 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 17:03:57 INFO     loading labels info from data
+2023-06-11 17:03:57 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 17:04:00 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 17:04:00 INFO     ====================== Running test ======================
+2023-06-11 17:08:40 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 17:08:40 INFO     loading labels info from data
+2023-06-11 17:08:40 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 17:08:43 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 17:08:43 INFO     ====================== Running test ======================
+2023-06-11 17:11:18 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 17:11:18 INFO     loading labels info from data
+2023-06-11 17:11:18 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 17:11:21 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 17:11:21 INFO     ====================== Running test ======================
+2023-06-11 17:19:11 INFO                precision    recall  f1-score   support
+2023-06-11 17:19:11 INFO         I-LOC     0.8996    0.9391    0.9189      4370
+2023-06-11 17:19:11 INFO         B-ORG     0.8200    0.8515    0.8355      1327
+2023-06-11 17:19:11 INFO         B-LOC     0.9299    0.9056    0.9176      2871
+2023-06-11 17:19:11 INFO             O     0.9975    0.9908    0.9942    150935
+2023-06-11 17:19:11 INFO         B-PER     0.9496    0.9468    0.9482      1972
+2023-06-11 17:19:11 INFO         I-ORG     0.8666    0.9766    0.9183      5640
+2023-06-11 17:19:11 INFO         I-PER     0.9457    0.9779    0.9615      3845
+2023-06-11 17:19:11 INFO     avg/total     0.9865    0.9857    0.9860    170960
+2023-06-11 17:19:11 INFO     Confusion Matrix:
+2023-06-11 17:19:11 INFO               I-LOC   B-ORG   B-LOC       O   B-PER   I-ORG   I-PER 
+2023-06-11 17:19:11 INFO       I-LOC    4104       1      42      83       0     113      27 
+2023-06-11 17:19:11 INFO       B-ORG       0    1130       4      41       0     152       0 
+2023-06-11 17:19:11 INFO       B-LOC     136      26    2600      77      11      20       1 
+2023-06-11 17:19:11 INFO           O     308     205     148  149552      60     556     106 
+2023-06-11 17:19:11 INFO       B-PER       0       2       2      22    1867       1      78 
+2023-06-11 17:19:11 INFO       I-ORG      11      12       0     104       1    5508       4 
+2023-06-11 17:19:11 INFO       I-PER       3       2       0      47      27       6    3760 
+2023-06-11 17:20:54 INFO     available device: cuda£¬count_gpu: 1
+2023-06-11 17:20:54 INFO     loading labels info from data
+2023-06-11 17:20:54 INFO     loading label2id and id2label dictionary successful!
+2023-06-11 17:20:57 INFO     loading tokenizer¡¢bert_config and bert_bilstm_crf model successful!
+2023-06-11 17:20:57 INFO     ====================== Running test ======================
+2023-06-11 17:28:10 INFO                precision    recall  f1-score   support
+2023-06-11 17:28:10 INFO             O     0.9847    0.9400    0.9618    150935
+2023-06-11 17:28:10 INFO         I-PER     0.6173    0.8861    0.7277      3845
+2023-06-11 17:28:10 INFO         I-LOC     0.4366    0.7641    0.5557      4370
+2023-06-11 17:28:10 INFO         I-ORG     0.5019    0.7892    0.6136      5640
+2023-06-11 17:28:10 INFO         B-LOC     0.5066    0.4121    0.4545      2871
+2023-06-11 17:28:10 INFO         B-ORG     0.2424    0.2102    0.2252      1327
+2023-06-11 17:28:10 INFO         B-PER     0.5351    0.3671    0.4355      1972
+2023-06-11 17:28:10 INFO     avg/total     0.9275    0.9082    0.9144    170960
+2023-06-11 17:28:10 INFO     Confusion Matrix:
+2023-06-11 17:28:10 INFO                   O   I-PER   I-LOC   I-ORG   B-LOC   B-ORG   B-PER 
+2023-06-11 17:28:10 INFO           O  141875     941    2776    3080     989     763     511 
+2023-06-11 17:28:10 INFO       I-PER     170    3407      51     116       4      11      86 
+2023-06-11 17:28:10 INFO       I-LOC     557      81    3339     295      94       4       0 
+2023-06-11 17:28:10 INFO       I-ORG     715      19     386    4451       7      51      11 
+2023-06-11 17:28:10 INFO       B-LOC     492      21     995     127    1183      33      20 
+2023-06-11 17:28:10 INFO       B-ORG     153       4      80     756      54     279       1 
+2023-06-11 17:28:10 INFO       B-PER     123    1046      21      44       4      10     724 
